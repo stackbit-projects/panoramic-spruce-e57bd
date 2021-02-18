@@ -16,7 +16,7 @@ sections:
     layout_style: mosaic
     title: Recent Works
     subtitle: Explore case studies
-    projects_number: 6
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
